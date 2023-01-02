@@ -1,0 +1,35 @@
+body{
+    background: rgb(219, 126, 89);
+    margin-left: 30px;
+    margin-right: 200px;
+
+}
+
+h1 {
+    color: red;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: red;
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 19px;
+    
+}
+
+header{
+    margin-top: 70px;
+}
+
+.img-padrao{
+    margin-bottom: 30px;
+    
+}
+
+.logo {
+    margin-bottom: -15px;
+    width: 80px;
+}
